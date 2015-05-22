@@ -7,7 +7,7 @@ The following TODO list I tried to implemented using RefluxJS.
 such as the hierarchical structure of the Component)
 
 
-IN TE TERMINAL(make sure you have node...):
+IN THE TERMINAL(make sure you have node...):
 
 brew install watchman
 brew install flow
