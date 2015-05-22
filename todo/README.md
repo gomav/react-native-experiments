@@ -6,7 +6,7 @@ A simple TODO list to try to implement RefluxJS
 such as the hierarchical structure of the Component)
 
 
-IN THE TERMINAL(make sure you have node...)
+IN THE TERMINAL(make sure you have ![node](https://nodejs.org/)
 
 
 React requires Watchmen for the node server
