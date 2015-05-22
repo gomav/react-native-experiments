@@ -1,28 +1,36 @@
-# シンプルなTODOリストをRefluxJSを使って実装してみる（ReactNative編）
+# react-native-experiments
 
-下記TODOリストをRefluxJSを使って実装してみました。
-(Componentの階層構造などまったく同じにはしていません)
 
-[シンプルなTODOリストをFluxな感じで実装してみる（ReactNative編）](https://github.com/khirayama/ReactNative-flux-todo)
+A simple TODO list to try to implemented using RefluxJS (ReactNative ed )
+The following TODO list I tried to implemented using RefluxJS.
+(You do not have to exactly the same 
+such as the hierarchical structure of the Component)
 
-![ReactNative-flux-todo](http://khirayama.github.io/ReactNative-flux-todo/images/ReactNative-flux-todo.png)
-特にFlux用のフレームワークを使わずにFluxっぽい実装をしてみる。(ReactNative編)
 
-## 実行手順
-下記を実行してreact-native-cliをグローバルにインストール。
-nodeがない場合は[ここ](https://nodejs.org/)を参考にインストールしておきましょう！
+IN THE TERMINAL(make sure you have node...):
 
-```
-$ sudo npm install -g react-native-cli
-```
 
-次にモジュールをインストール！
-
-```
-$ sudo npm install
-```
-
-そしたらTodoProject.xcodeprojをXcodeで立ち上げて、cmd+Rで起動します。
-
+React requires Watchmen for the node server
+ <code>brew install watchman</code>
+ 
+ 
+ React requires flow for the node server
+ <code>brew install flow</code>
+ 
+ 
+ Install the react-native module
+ <code>sudo npm install -g react-native-cli</code>
+ 
+ 
+ react-native init creates a new react-native project
+ <code>react-native init 'newProjectName' </code>
+ 
+ 
+ get up init
+ <code>cd 'newProjectName' </code>
+ 
+ 
+ install RefluxJS
+ <code>sudo npm install</code>
 
 
