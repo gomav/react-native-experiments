@@ -1,8 +1,7 @@
 # react-native-todo-list
 
 
-A simple TODO list to try to implemented using RefluxJS (ReactNative ed )
-The following TODO list I tried to implemented using RefluxJS.
+A simple TODO list to try to implement RefluxJS
 (You do not have to exactly the same 
 such as the hierarchical structure of the Component)
 
