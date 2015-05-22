@@ -9,11 +9,10 @@ such as the hierarchical structure of the Component)
 
 IN THE TERMINAL(make sure you have node...):
 
-brew install watchman
+<code>brew install watchman
 brew install flow
 sudo npm install -g react-native-cli
 react-native init <projectname>
 cd <projectname>
-sudo npm install
+sudo npm install</code>
 
-dsafasdf
