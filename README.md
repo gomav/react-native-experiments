@@ -9,10 +9,32 @@ such as the hierarchical structure of the Component)
 
 IN THE TERMINAL(make sure you have node...):
 
-<code>brew install watchman</code>
-<code>brew install flow</code>
-<code>sudo npm install -g react-native-cli</code>
-<code>react-native init <newProjectName> </code>
-<code>cd <newProjectName> </code>
-<code>sudo npm install</code>
+
+React requires Watchmen for the node server
+ <code>brew install watchman</code>
+ 
+ 
+ React requires flow for the node server
+ <code>brew install flow</code>
+ 
+ 
+ Install the react-native module
+ <code>sudo npm install -g react-native-cli</code>
+ 
+ 
+ react-native init creates a new react-native project
+ <code>react-native init 'newProjectName' </code>
+ 
+ 
+ get up init
+ <code>cd 'newProjectName' </code>
+ 
+ 
+ install RefluxJS
+ <code>sudo npm install</code>
+
+
+
+
+
 
