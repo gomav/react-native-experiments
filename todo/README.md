@@ -1,4 +1,4 @@
-# react-native-experiments
+# react-native-todo-list
 
 
 A simple TODO list to try to implemented using RefluxJS (ReactNative ed )
