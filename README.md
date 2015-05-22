@@ -16,9 +16,4 @@ react-native init <projectname>
 cd <projectname>
 sudo npm install
 
-brew install watchman
-brew install flow
-sudo npm install -g react-native-cli
-react-native init <projectname>
-cd <projectname>
-sudo npm install
+dsafasdf
